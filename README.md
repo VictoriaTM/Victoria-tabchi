@@ -29,7 +29,9 @@ killall bash
 ./anticrash.sh
 ```
 
-Channels: [Victoria TM](https://github.com/VictoriaTM)
+Channels: [Victoria TM](https://t.me/VictoriaTM)
 
 -------------------
-Developer: [CR_victoria](https://t.me/joinchat/FbE8wFF2ImkSiaZbvFem4w)
+Developer: [CR_victoria](https://t.me/joinchat/amir_sezar)
+
+[TEH END]
