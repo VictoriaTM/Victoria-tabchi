@@ -2,7 +2,7 @@
 
 <div align="VictoriaTM"><a href="https://t.me/VictoriaTM"><img src="http://s8.picofile.com/file/8319766368/IMG_20180218_231853_971.jpg" width="300"></a></div>
 
-### by: @amir_sezar
+### 🇮🇷by: Amirhoosain Haidari
 
 # best Tabchi the user 8 
 
@@ -32,6 +32,6 @@ killall bash
 Channels: [Victoria TM](https://t.me/VictoriaTM)
 
 -------------------
-Developer: [CR_victoria](https://t.me/joinchat/amir_sezar)
+Developer: [Amirhoosain Haidari](https://t.me/amir_sezar)
 
-[TEH END]
+[TEH END🤘]
